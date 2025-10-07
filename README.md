@@ -1,6 +1,8 @@
 # Quasi-Matter (qM) as the Fundamental Nature of Dark Matter
 
-[![DOI](https://zenodo.org/badge/1071652350.svg)](https://doi.org/10.5281/zenodo.17289032)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17289032.svg)](https://doi.org/10.5281/zenodo.17289032)
+[![PDF Download](https://img.shields.io/badge/Download-PDF-blue.svg)](https://github.com/ArkOkupski-WAT/Quasi-Matter-as-of-Dark-Matter/raw/main/Quasi_Matter_as_the_Fundamental_Nature_of_Dark_Matter.pdf)
+[![Zenodo](https://img.shields.io/badge/Zenodo-17289032-lightgrey)](https://zenodo.org/records/17289032)
 
 ## Abstract
 
@@ -27,6 +29,12 @@ The qM hypothesis provides natural explanations for:
 ## Philosophical Framework
 
 This work represents a paradigm shift from "particles in spacetime" to "spacetime as substance," offering a coherent ontological framework that unifies cosmological phenomena through geometric principles.
+
+## Quick Access
+
+- **📄 [Download PDF](https://github.com/ArkOkupski-WAT/Quasi-Matter-as-of-Dark-Matter/raw/main/Quasi_Matter_as_the_Fundamental_Nature_of_Dark_Matter.pdf)** - Direct download of the full paper
+- **🔗 [Zenodo Record](https://zenodo.org/records/17289032)** - Official publication page
+- **📚 [Related Works](https://github.com/ArkOkupski-WAT)** - Author's other publications
 
 ## Citation
 
